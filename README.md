@@ -17,9 +17,3 @@
 * Браузер Google Chrome
 
    https://www.google.com/chrome/
-
-## ДЗ_0
-
-Добавить в пример с урока возможность вычислить (a + b - c)
-
-
