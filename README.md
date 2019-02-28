@@ -17,3 +17,7 @@
 * Браузер Google Chrome
 
    https://www.google.com/chrome/
+
+* Ссылка
+
+   https://github.com/maxim218/maxim218.github.io/blob/master/BlockLogPage/block-log-win32-x64.zip
